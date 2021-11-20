@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "573894977460",
+    "project_id": "the-blog-app-50c7c",
+    "storage_bucket": "the-blog-app-50c7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573894977460:android:390f021300380aba3eb4e1",
+        "android_client_info": {
+          "package_name": "com.anascreation.the_blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573894977460-mhevp20t3d4jqnollq1571k3qdsn113m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anascreation.the_blog_app",
+            "certificate_hash": "3f5df780170a863341a1dedbe4e75f97557ac245"
+          }
+        },
+        {
+          "client_id": "573894977460-ta421gstaid2cfoeeh0nkguuk2ldn4c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoUizkm0Y_bOGRSBkupyZzUCDSTjl7zmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573894977460-ta421gstaid2cfoeeh0nkguuk2ldn4c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
